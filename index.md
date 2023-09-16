@@ -50,7 +50,7 @@ gradually increase the vector number until an appropriate rank
 estimate is reached. Compared with the conventional model, our scheme performs completion from the vector viewpoint and is able to generate continuously updated rank-one basis matrices. Experimental results show the superiority of our method over the competing techniques.</font>
 
 
-- **Z.-Y. Wang**,  H. C. So, and Z. Liu. ``Fast and robust rank-one matrix completion via maximum correntropy criterion and half-quadratic optimization,'' Signal Process., 2022.<br><font color='dimgray'>In this paper, the correntropy (the Welsch function) is adopted to measure the error for rank-one matrix completion, and half-quadratic optimization is utilized to convert the Welsch function into a penalty penalized least squares problem. We test the effectiveness of our method using natural images.</font>
+- **Z.-Y. Wang**,  H. C. So, and Z. Liu. ``Fast and robust rank-one matrix completion via maximum correntropy criterion and half-quadratic optimization,'' Signal Process., 2022.<br><font color='dimgray'>In this paper, the correntropy (the Welsch function) is adopted to measure the error for rank-one matrix completion, and half-quadratic optimization is utilized to convert the Welsch function into a penalty penalized least squares problem. We test the effectiveness of our method using natural images.</font>.<br>
 
 
 <br>
