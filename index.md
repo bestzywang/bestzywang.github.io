@@ -33,7 +33,9 @@ Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the super
 
 ## Selected Publications
 
-- **Z.-Y. Wang**,  H. C. So, and Z. Liu. "Fast and robust rank-one matrix completion via maximum correntropy criterion and half-quadratic optimization," Signal Process., 2022.<br><font color='dimgray'>In this paper, the correntropy (the Welsch function) is adopted to measure the error for rank-one matrix completion, and half-quadratic optimization is utilized to convert the Welsch function into a penalty penalized least squares problem. We test the effectiveness of our method using natural images.</font><br>
+- **Z.-Y. Wang**,  H. C. So, and Z. Liu. "Fast and robust rank-one matrix completion via maximum correntropy criterion and half-quadratic optimization," Signal Process., 2022.
+
+<br><font color='dimgray'>In this paper, the correntropy (the Welsch function) is adopted to measure the error for rank-one matrix completion, and half-quadratic optimization is utilized to convert the Welsch function into a penalty penalized least squares problem. We test the effectiveness of our method using natural images.</font><br>
 
 
 - **Z.-Y. Wang**,  X. P. Li, H. C. So and A. M. Zoubir, "Adaptive Rank-One Matrix Completion using Sum of Outer Products," IEEE Trans. Circuits Syst. Video Technol., 2023.<br><font color='dimgray'>The conventional rank-one model recovers the missing entries via seeking a rank-one basis matrix at each outer iteration, and the basis matrix will not be further updated once it has been computed. In this paper, we find the basis vectors of the underlying matrix according to the observed entries, and gradually increase the vector number until an appropriate rank estimate is reached. Compared with the conventional model, our scheme performs completion from the vector viewpoint and is able to generate continuously updated rank-one basis matrices. It is proved that the recovery error of the developed rank-one scheme is no bigger than that of the conventional model. Experimental results show the superiority of our method over the competing techniques.</font><br>
