@@ -7,7 +7,7 @@ url: https://bestzywang.com
 # Owner/author information
 owner:
   name: Zhiyong WANG
-  avatar: hanlin.jpg
+  avatar: Zhiyong.jpg
  # bio:
   email: z.y.wang@my.cityu.edu.hk
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -24,7 +24,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
