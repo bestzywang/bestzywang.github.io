@@ -5,9 +5,9 @@ layout: page
 Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug. 
 
 
-**<font color='red'>[Highlight]</font> I am looking for Post doc position. Contact me if you have any positions!**
 
 ## Academic Background
+**<font color='red'>[Highlight]</font> I am looking for Post doc position. Contact me if you have any positions!**
 
 - **Sep 2020 - Aug 2023:** City University of Hong Kong (PhD)
 - **Sep 2017 - Jun 2020:** Xi'an Jiaotong University (MS)
