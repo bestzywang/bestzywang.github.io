@@ -2,24 +2,13 @@
 layout: page
 ---
 
-# About Me
-
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
-
-Hi, I am **Zhiyong WANG (王志永)**.
-
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
-
-<br>
-
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for Post doc to start in 2023 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for Post doc position. Contact me if you have any positions!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2020 - Oct 2023:** City University of Hong Kong (PhD)
+- **Sep 2017 - Jun 2020:** Xi'an Jiaotong University (MS)
+- **Sep 2013 - Jun 2017:** Zhengzhou University (BS)
 
 <br>
 
@@ -29,10 +18,56 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 - Sparse recovery
 - Robust signal processing
-- Matrix/tensor analysis (Completion, and robustness)
+- Matrix/tensor analysis (Completion and robustness)
 - Applications to images, hyperspectral imaging and videos
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+<br>
+
+---
+
+## Selected Publications
+- **Z.-Y. Wang**,  X. P. Li, H. C. So and A. M. Zoubir, ``Adaptive Rank-One Matrix Completion using Sum of Outer Products,'' IEEE Trans. Circuits Syst. Video Technol., 2023.  
+<font color='dimgray'>In this paper, .</font>
+
+
+- **Z.-Y. Wang**,  X. P. Li, H. C. So and A. M. Zoubir, ``Adaptive Rank-One Matrix Completion using Sum of Outer Products,'' IEEE Trans. Circuits Syst. Video Technol., 2023.  
+<font color='dimgray'>In this paper, .</font>
+
+
+- **Z.-Y. Wang**, X. P. Li, H. C. So and Z. Liu, ``Robust PCA via non-convex half quadratic regularization,'' Signal Process., 2023.  
+<font color='dimgray'>In this paper, .</font>
+
+
+- **Z.-Y. Wang**,  X. P. Li and H. C. So, ``Robust matrix completion based on factorization and truncated-quadratic loss function,'' IEEE Trans. Circuits Syst. Video Technol., 2023.  
+<font color='dimgray'>When the Weslch function is used for robustness, it down-weighs all data including normal data, then the truncated-quadratic function is adopted for robustness. The latter only penalizes outlier-contaminated data, and it achieves robustness via truncating the magnitudes of outlier-corrupted observations. As the truncated-quadratic function is nonconvex and nonsmooth, half-quadratic optimization is adopted. Then, the additive and multiplicative forms of the function are derived, resulting in two effective robust matrix completion algorithms based on factorization, namely, HOAT and HOMT. Numerical results using hyperspectral images demonstrate that our algorithms are superior to the state-ofthe-
+art methods in terms of restoration accuracy and runtime. </font>
+
+
+- **Z.-Y. Wang**,  X. P. Li, H. C. So and A. M. Zoubir, ``Adaptive Rank-One Matrix Completion using Sum of Outer Products,'' IEEE Trans. Circuits Syst. Video Technol., 2023.  
+<font color='dimgray'>The conventional rank-one model recovers the missing entries via seeking a rank-one basis matrix at each outer iteration, and the basis matrix will not be further updated once it has been computed. In this paper, we find the basis vectors of
+the underlying matrix according to the observed entries, and
+gradually increase the vector number until an appropriate rank
+estimate is reached. Compared with the conventional model, our scheme performs completion from the vector viewpoint and is able to generate continuously updated rank-one basis matrices. Experimental results show the superiority of our method over the competing techniques.</font>
+
+
+- **Z.-Y. Wang**,  H. C. So, and Z. Liu. ``Fast and robust rank-one matrix completion via maximum correntropy criterion and half-quadratic optimization,'' Signal Process., 2022.  
+<font color='dimgray'>In this paper, the correntropy (the Welsch function) is adopted to measure the error for rank-one matrix completion, and half-quadratic optimization is utilized to convert the Welsch function into a penalty penalized least squares problem. We test the effectiveness of our method using natural images.</font>
+
+
+<br>
+
+---
+
+## Patents
+
+- [Method and electronic device for recovering data using adaptive rank-one matrix completion](https://scholars.cityu.edu.hk/en/publications/method-and-electronic-device-for-recovering-data-using-adaptive-rankone-matrix-completion(cf0eb27f-0332-4c3f-8879-ab03983f78ad).html)<br>**Z.-Y WANG**, X. P. Li, H. C. So and A. M. Zourbir.<br>
+
+
+- [Method and electronic device for performing robust Low-rank Matrix recovery via hybrid ordinary Welsch function](https://scholars.cityu.edu.hk/en/publications/method-and-electronic-device-for-performing-robust-lowrank-matrix-recovery-via-hybrid-ordinarywelsch-function(1026a6d2-901d-4e92-9ad7-79783d904f92).html)<br>**Z.-Y WANG**, H. C. So and A. M. Zourbir.<br>
+
+
+- [Image recovery processor utilizing framework for generating sparsity regularizers for image restoration](https://scholars.cityu.edu.hk/en/publications/image-recovery-processor-utilizing-framework-for-generating-sparsity-regularizers-for-image-restoration(91661132-074d-4c3b-a60e-13a961a04a3a).html)<br>**Z.-Y WANG**, H. C. So and A. M. Zourbir.<br>
+
 
 <br>
 
@@ -40,10 +75,7 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## Selected News and Updates
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Aug 2023：**Outstanding Academic Performance Award (OAPA), City University of Hong Kong.
+- **Aug 2022：**Research Tuition Scholarship (RTS), City University of Hong Kong.
+- **Jun 2022：**First Prize in Research Student Symposium.
+
