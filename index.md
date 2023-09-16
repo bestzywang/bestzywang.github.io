@@ -8,7 +8,9 @@ Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the super
 
 ## Academic Background
 - **Sep 2020 - Aug 2023:** City University of Hong Kong (PhD)
+
 - **Sep 2017 - Jun 2020:** Xi'an Jiaotong University (MS)
+
 - **Sep 2013 - Jun 2017:** Zhengzhou University (BS)
 
 <br>
@@ -18,8 +20,11 @@ Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the super
 ## Research Interests
 
 - Sparse recovery
+
 - Robust signal processing
+
 - Matrix/tensor analysis (Completion and robustness)
+
 - Applications to nature images, hyperspectral imaging and videos
 
 <br>
@@ -67,6 +72,8 @@ Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the super
 ## Selected Awards
 
 - **Aug 2023：**Outstanding Academic Performance Award (OAPA), City University of Hong Kong.
+
 - **Aug 2022：**Research Tuition Scholarship (RTS), City University of Hong Kong.
+
 - **Jun 2022：**First Prize in Research Student Symposium.
 
