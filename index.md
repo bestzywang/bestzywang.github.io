@@ -5,7 +5,9 @@ layout: page
 Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the supervision of [Prof. SO](https://scholar.google.com.hk/citations?user=2OmnQPEAAAAJ&hl=en) and [Prof. Zoubir](https://scholar.google.com.hk/citations?user=QitM1nQAAAAJ&hl=en).  
 **<font color='red'>[Highlight]</font> I am looking for a Post doc position. Contact me if you are interested in my works!**
 
+<br>
 
+---
 ## Academic Background
 - **Sep 2020 - Aug 2023:** City University of Hong Kong (PhD)
 
