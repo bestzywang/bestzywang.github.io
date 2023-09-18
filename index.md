@@ -60,7 +60,7 @@ Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the super
 - [Method and electronic device for recovering data using adaptive rank-one matrix completion](https://scholars.cityu.edu.hk/en/publications/method-and-electronic-device-for-recovering-data-using-adaptive-rankone-matrix-completion(cf0eb27f-0332-4c3f-8879-ab03983f78ad).html)<br>**Z.-Y WANG**, X. P. Li, H. C. So and A. M. Zourbir.<br>
 
 
-- [Method and electronic device for performing robust low-rank Matrix recovery via hybrid ordinary-Welsch function](https://scholars.cityu.edu.hk/en/publications/method-and-electronic-device-for-performing-robust-lowrank-matrix-recovery-via-hybrid-ordinarywelsch-function(1026a6d2-901d-4e92-9ad7-79783d904f92).html)<br>**Z.-Y WANG**, H. C. So and A. M. Zourbir.<br>
+- [Method and electronic device for performing robust low-rank matrix recovery via hybrid ordinary-Welsch function](https://scholars.cityu.edu.hk/en/publications/method-and-electronic-device-for-performing-robust-lowrank-matrix-recovery-via-hybrid-ordinarywelsch-function(1026a6d2-901d-4e92-9ad7-79783d904f92).html)<br>**Z.-Y WANG**, H. C. So and A. M. Zourbir.<br>
 
 
 - [Image recovery processor utilizing framework for generating sparsity regularizers for image restoration](https://scholars.cityu.edu.hk/en/publications/image-recovery-processor-utilizing-framework-for-generating-sparsity-regularizers-for-image-restoration(91661132-074d-4c3b-a60e-13a961a04a3a).html)<br>**Z.-Y WANG**, H. C. So and A. M. Zourbir.<br>
