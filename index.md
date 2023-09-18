@@ -25,7 +25,7 @@ Hi, I am WANG Zhiyong. I just passed my PhD defense on this Aug, under the super
 
 - Robust signal processing
 
-- Matrix/tensor analysis (Completion and robustness)
+- Matrix/tensor analysis (completion and robustness)
 
 - Applications to nature images, hyperspectral imaging and videos
 
